@@ -50,8 +50,8 @@ It enables data-driven decision-making by converting raw marketing data into mea
 
 Below is a screenshot of the Power BI dashboard:
 
-![Marketing Campaign Analysis Dashboard](<img width="1706" height="817" alt="Dashboard screenshots" src="https://github.com/user-attachments/assets/a39e3690-b8ad-4856-8f47-8ec178362c8c" />
-)
+![Marketing Campaign Analysis Dashboard](Dashboard screenshots .png)
+
 
 *(If the image is not visible, please check the `images` folder in this repository.)*
 
